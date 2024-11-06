@@ -55,4 +55,6 @@ Note:
 - Posted EDA on Spotify.ipynb File (Incomplete)
 - Added spotify-2023.csv File
 - Added ReadMe File (Incomplete)
--
+- Reposted EDA on Spotify.ipynb File (Complete)
+- Update ReadMeFile (Complete)
+
